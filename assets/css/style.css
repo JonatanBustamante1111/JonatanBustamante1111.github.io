@@ -142,7 +142,9 @@ body {
   font-family: 'Lato', sans-serif;
   font-size: 18px;
   background-color: #FFFFFF;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0; }
 
 .margin__top {
   margin-top: 100px; }
