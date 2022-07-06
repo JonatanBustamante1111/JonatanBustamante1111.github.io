@@ -42,9 +42,9 @@
     gap: 2rem;
     height: 100vh;
     width: 100%;
-    border-top: 1px solid #9cc9f5;
-    border-right: 1px solid #9cc9f5;
-    border-bottom: 1px solid #9cc9f5;
+    border-top: 2px solid #9cc9f5;
+    border-right: 2px solid #9cc9f5;
+    border-bottom: 2px solid #9cc9f5;
     display: none;
     margin-top: 100px;
     padding: 0; }
@@ -141,7 +141,8 @@
 body {
   font-family: 'Lato', sans-serif;
   font-size: 18px;
-  background-color: #FFFFFF; }
+  background-color: #FFFFFF;
+  overflow-x: hidden; }
 
 .margin__top {
   margin-top: 100px; }
