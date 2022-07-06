@@ -189,3 +189,7 @@ body {
 .title__link {
   font-size: 26px;
   color: #222d4f; }
+
+.row {
+  margin-right: 0;
+  margin-left: 0; }
