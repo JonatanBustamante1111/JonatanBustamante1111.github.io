@@ -146,8 +146,9 @@ body {
   margin: 0;
   padding: 0; }
 
-.margin__top {
-  margin-top: 100px; }
+.row {
+  margin-right: 0;
+  margin-left: 0; }
 
 .title__link:hover {
   cursor: pointer; }
