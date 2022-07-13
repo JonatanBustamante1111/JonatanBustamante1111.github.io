@@ -9,3 +9,14 @@ $colorTwo:#9cc9f5;
 $colorThree:#FFFFFF;
 $colorFor:#222d4f;
 $colorFive:#31404a;
+// map get
+$nav:(
+    background:$colorFive,
+    color:$colorThree,
+    width: 100%,
+    height: 100px,
+    z-index:2,
+    d-flex: display,
+    align:center,
+    justify-between: space-between,
+);
