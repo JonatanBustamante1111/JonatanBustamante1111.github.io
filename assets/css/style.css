@@ -114,6 +114,8 @@ body {
         text-decoration: none;
         color: #FFFFFF;
         text-transform: uppercase; }
+        .navbar ul li a:hover {
+          color: #516ca9; }
 
 .navbar ul li a {
   position: relative; }
